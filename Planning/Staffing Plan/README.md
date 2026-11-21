@@ -1,17 +1,19 @@
 # Staffing Plan & Project Charter – WorkAlert
 
-Detailed task responsibilities are also tracked in [WORKALERT_RACI_Matrix.xlsx](./WORKALERT_RACI_Matrix.xlsx).
+Detailed task responsibilities are tracked in [WORKALERT_RACI_Matrix.xlsx](./WORKALERT_RACI_Matrix.xlsx).
 
 ## Staffing Plan
 
 | Role | Description | Assigned To |
 | :--- | :--- | :--- |
-| **Project Manager** | Oversees project schedule, runs weekly meetings, manages GitHub repository, and ensures deliverables meet deadlines. | Member 1 (Lead) |
-| **Requirements / Systems Analyst** | Elicits requirements, maintains SRS and RTM, and creates Use Cases and Data Flow Diagrams. | Member 2 |
-| **Infrastructure / Database Analyst** | Designs ERD and database schema, configures Node.js API environment, and manages deployment. | Member 3 |
-| **UI/UX Designer & Programmer** | Designs interface wireframes/prototypes and builds React + Tailwind CSS frontend and backend features. | All 4 Team Members |
+| **Project Manager** | Accountable for overall project planning, backend/API oversight, final documentation, and final presentation. | Saujan Neupane |
+| **Systems / Requirements Analyst** | Leads project planning, owns nearby-job search requirements/workflow, and co-leads documentation and presentation. | Sahani Sukhal |
+| **Backend & Filtering Lead** | Accountable for nearby location/job filtering feature and responsible for backend API, database integration, and testing. | Sachin Thakur |
+| **Database & Infrastructure Analyst** | Accountable for database design/integration and responsible for backend APIs, location filtering, and deployment. | Samir Dhakal |
+| **UI/UX Designer & QA Lead** | Accountable for testing/bug fixing and responsible for user interface, front-end design, and project documentation. | Mahmud |
+| **Deployment & Operations Lead** | Accountable for deployment/configuration and responsible for testing/bug fixing and final demonstration. | Bunyod |
 
-* **Reporting Structure:** All project team members report task progress to the Project Manager during weekly check-ins.
+* **Reporting Structure:** All project team members report task progress to Saujan Neupane (Project Manager) during weekly check-ins.
 * **Special Incentives:** Upon timely completion of all SDLC deliverables and final presentation, the team will celebrate with a group dinner.
 
 ## Project Charter
