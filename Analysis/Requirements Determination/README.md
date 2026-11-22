@@ -1,7 +1,7 @@
 # Requirements Determination – WorkAlert
 
 ## Supporting Documents
-* **Software Requirements Specification (SRS):** [WorkAlert_SRS_Version_2.docx](./WorkAlert_SRS_Version_2.docx)
+* **Software Requirements Specification (SRS):** [WorkAlert_SRS_Version_03.docx](./WorkAlert_SRS_Version_03.docx)
 * **Requirements Traceability Matrix (RTM):** [RTM_WorkAlert.xlsx](./RTM_WorkAlert.xlsx)
 
 ## Summary of Core Requirements
