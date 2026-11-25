@@ -12,5 +12,5 @@
 * **Version Control:** Descriptive commit messages summarizing the phase or feature updated.
 
 ## Procedural Standards
-* All changes to core requirements must be reflected in both the SRS (`WorkAlert_SRS_Version_2.docx`) and the Requirements Traceability Matrix (`RTM_WorkAlert.xlsx`).
+* All changes to core requirements must be reflected in both the SRS (`WorkAlert_SRS_Version_03.docx`) and the Requirements Traceability Matrix (`RTM_WorkAlert.xlsx`).
 * Major deliverables are reviewed by the team prior to submission deadlines.
