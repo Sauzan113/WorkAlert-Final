@@ -3,7 +3,7 @@
 ## Risk #1: Scope Creep During Feature Implementation
 * **Likelihood of Risk:** High
 * **Potential Impact on Project:** Adding extra features late in the semester could delay core job search, messaging, and testing deliverables.
-* **Ways to Address This Risk:** Strictly enforce the requirements baseline defined in `WorkAlert_SRS_Version_3.docx` and defer non-essential enhancements to future releases.
+* **Ways to Address This Risk:** Strictly enforce the requirements baseline defined in `WorkAlert_SRS_Version_03.docx` and defer non-essential enhancements to future releases.
 
 ## Risk #2: Integration Delays Between Frontend, Backend, and Database
 * **Likelihood of Risk:** Medium
