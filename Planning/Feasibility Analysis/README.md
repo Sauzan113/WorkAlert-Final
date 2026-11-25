@@ -3,7 +3,7 @@
 ## 1. Technical Feasibility (Can We Build It?)
 * **Familiarity with Application:** Moderate-High. The team is familiar with modern job boards and messaging workflows.
 * **Familiarity with Technology:** High. The team has hands-on coursework experience with React, Tailwind CSS, Node.js, Axios, and relational databases (PostgreSQL/MySQL).
-* **Project Size:** Moderately Low. Scoped specifically to core job discovery, posting, and applicant-employer messaging for a 4-person team.
+* **Project Size:** Moderately Low. Scoped specifically to core job discovery, posting, and applicant-employer messaging for a 6-person team.
 * **Compatibility:** High. Built as a standard browser-based web application compatible with modern desktop and mobile browsers.
 
 ## 2. Economic Feasibility (Should We Build It?)
