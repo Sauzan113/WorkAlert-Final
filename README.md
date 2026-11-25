@@ -12,7 +12,7 @@ WorkAlert is a full-stack web application designed to help job seekers discover 
 * [Risk Assessment](./Planning/Risk%20Assessment/README.md) – Identified project risks, impact ratings, and mitigation plans
 
 ### 2. Analysis Phase
-* [Requirements Determination](./Analysis/Requirements%20Determination/README.md) – [Software Requirements Specification (SRS)](./Analysis/Requirements%20Determination/WorkAlert_SRS_Version_2.docx) and [Requirements Traceability Matrix (RTM)](./Analysis/Requirements%20Determination/RTM_WorkAlert.xlsx)
+* [Requirements Determination](./Analysis/Requirements%20Determination/README.md) – [Software Requirements Specification (SRS)](./Analysis/Requirements%20Determination/WorkAlert_SRS_Version_03.docx) and [Requirements Traceability Matrix (RTM)](./Analysis/Requirements%20Determination/RTM_WorkAlert.xlsx)
 * [Use Cases & Process Models](./Analysis/Use%20Cases%20Process%20Models/README.md) – User interaction scenarios and Data Flow Diagrams (DFDs)
 * [Data Model](./Analysis/Data%20Model/README.md) – Entity Relationship Diagrams (ERDs) and data dictionary
 
